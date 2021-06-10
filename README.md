@@ -1,2 +1,3 @@
 # tutorial-website
-Tutorial website
+Tutorial website and playground for learning react
+
